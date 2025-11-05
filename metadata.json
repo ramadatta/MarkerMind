@@ -1,0 +1,5 @@
+{
+  "name": "MarkerMind",
+  "description": "MarkerMind extracts structured biological information (cell types, marker genes/proteins, experimental context) from scientific PDFs and text. The tool takes research papers as input and outputs clean, structured tables with cell populations and marker panels.",
+  "requestFramePermissions": []
+}
